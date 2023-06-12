@@ -13,3 +13,4 @@
 с 12.06 по 17.06 выполнить задания курса: https://youtube.com/playlist?list=PLVfMKQXDAhGW0p_BEEe47UkCgNoS_dyki
 
 с 19.06 по 24.06 сделать свою змею с нуля
+    изучить игровой цикл:     https://youtu.be/ewn6YFeaT9Y
